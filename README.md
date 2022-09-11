@@ -95,6 +95,3 @@ You can refer our help documents here - https://help.geektrust.com
 
 You can read build instructions here - https://github.com/geektrust/coding-problem-artefacts
 
-
-//"C:\\Users\\Jitender\\IdeaProjects\\Test\\src\\NaviLLD\\Extras\\Input1.txt";
-//"C:\\Users\\Jitender\\IdeaProjects\\Test\\src\\NaviLLD\\Extras\\Input2.txt";
